@@ -1,0 +1,15 @@
+{
+    "name": "Background",
+    "description": "Adds a background to the chat",
+	"authors": [
+        {
+            "name": "Mlad | mlad_",
+            "id": "773538519775445052"
+        }
+    ],
+    "background": {
+        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",
+        "alpha": 0.25
+    },
+    "spec": 2
+}
