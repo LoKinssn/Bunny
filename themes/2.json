@@ -1,0 +1,14 @@
+{
+    "name": "Background | 2",
+    "description": "Adds a background to the chat",
+    "authors": [
+        {
+            "name": "Mlad",
+            "id": "773538519775445052"
+        }
+    ],
+    "background": {
+        "url": "https://i.imgur.com/MQ3vWt7.png"
+    },
+    "spec": 2
+}
